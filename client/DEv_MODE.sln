@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0601c09f-a783-2a28-c4ad-f8874dce0568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucidSight.Runtime.ColyseusSDK", "LucidSight.Runtime.ColyseusSDK.csproj", "{3d359ba7-3f76-962c-27e2-8a06f7326ea0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0601c09f-a783-2a28-c4ad-f8874dce0568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0601c09f-a783-2a28-c4ad-f8874dce0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3d359ba7-3f76-962c-27e2-8a06f7326ea0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3d359ba7-3f76-962c-27e2-8a06f7326ea0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
